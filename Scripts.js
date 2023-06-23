@@ -1,4 +1,3 @@
-console.log("js loaded");
 let convertBtn = document.getElementById("convert");
 let mainLink = document.getElementById("main-link");
 let result = document.getElementById("result");
